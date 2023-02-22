@@ -1,1 +1,1 @@
-let yourArray = ["prince", 42, true, null, "hello world"];
+let yourArray=["Sidh",18,"Utkarsh",true,2023];
