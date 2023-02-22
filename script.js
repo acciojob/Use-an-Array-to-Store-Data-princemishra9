@@ -1,1 +1,1 @@
-let yourArray=["Sidh",18,"Utkarsh",true,2023];
+let yourArray = ["red", 8, true, {x: "hello"}, [1,2,3]];
